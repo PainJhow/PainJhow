@@ -3,7 +3,7 @@
 - 🌱 ultimamente estou estudando HTML e CSS e um pouquinho de JavaScript
 - 💞️ quero fazer meus projetos e ser alguem tranquilo com suas conquistas
 - 📫 me mande email no pauloviniciusgt2005@gmail.com
-- Aluno de Jackson Zacarias 
+- Aluno de Jackson Zacarias, Rafael sulivan e Carlos Henrique
 
 <!---
 PainJhow/PainJhow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
